@@ -1,52 +1,8 @@
 <style>
 	
-			h1 { font-family: courier;
-				 font-size: 300%;
-				 text-align: center;}
-				 
-			h2 { text-decoration: underline;}
-			
-			h3 { font-family: verdam}
-			
-			#note { color: red;
-					font-size: 80%;
-					text-align: right;
-					text-decoration: underline red;
-					margin: 1px 1px 1px 1px;}
-				
-			p { font-weight: bold}
-			
-			.Mana { background-color: black }
-	
-			em { margin: 1px 1px 1px 10px }
-			
-			#cube1 {height: 150%;
-					border: 2px solid black;}
-					
-			#Top {height: 150%;
-					background-color: darkblue;
-					border: 2px solid #E6E6FA;}
-					
-			#Jungle {height: 150%;
-					background-color: green;
-					border: 2px solid #E6E6FA;}
-					
-			#Mid {height: 150%;
-					background-color: red;
-					border: 2px solid #E6E6FA;}
-					
-			#Bot {height: 150%;
-					background-color: pink;
-					border: 2px solid #E6E6FA;}
-					
-			#Bot2 {height: 150%;
-					background-color: yellow;
-					border: 2px solid #E6E6FA;}
-
 		body {
-			 background:	#F5D6B4;
-              margin-top:         0;
-              margin-left:      100;
+              	margin-top:         0;
+              	margin-left:      100;
 }
   
 		div {
