@@ -37,6 +37,13 @@
             		margin-top:               165px;
 }
 	
-
+		.footer {
+ 			 position: fixed;
+			 left: 0;
+			 bottom: 0;
+  			 width: 100%;
+ 			 border: solid 1px #4D4D4D;
+			 text-align: center;
+}
 
 </syle>
